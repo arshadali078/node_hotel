@@ -1,0 +1,4 @@
+//ingnore node moduls directry
+
+node_modules/
+//other entries..
